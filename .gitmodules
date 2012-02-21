@@ -1,0 +1,3 @@
+[submodule "vsplf-parent"]
+	path = vsplf-parent
+	url = git@github.com:vsplf/vsplf-parent.git
